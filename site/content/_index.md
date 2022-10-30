@@ -24,9 +24,9 @@ products:
     text: Далечинско управување и контрола од било кој паметен телефон, таблет или
       компјутер од било која точка на светот.
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Нашите вредности.
+  text: Македонија може слободно да се каже дека е земјоделска земја. Иако можеме
+    да се пофалиме со поволна макро-клима и квалитетна почва, сепак не можеме да
+    се пофалиме со количината на крајот на производството. Мисијата на АгроБОТ е
+    да обезбеди максимално производство во дадените услови.
 ---
